@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/dropout1337/guilded.rip">
-    <img src="https://img.guildedcdn.com/asset/Logos/logomark/White/Guilded_Logomark_White.png?ver=3" alt="Logo" width="120" height="120">
+    <img src="https://i.imgur.com/xInXmyq.png" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">guilded.rip</h3>
