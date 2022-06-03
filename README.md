@@ -18,7 +18,7 @@
   <h2 align="center">guilded.rip</h3>
 
   <p align="center">
-    Authenticates and signs a discord banner, because we love discord <3
+    Guilded, yeah- that one app.
     <br />
     <br />
     <a href="https://github.com/dropout1337/guilded.rip/issues">Report Bug</a>
